@@ -34,10 +34,11 @@ Description: This ticket includes:
 Effort: 8 sp
 
 ^ This is more like a feature, which is one of the ways I've worked before, but if the preference is to have small tickets, this could be broken up into:
-Ticket 1.1: Add Custom Agent ID column in database and unique constraint
-Ticket 1.2: Update Agent PUT/PATCH endpoint to save the field and GET endpoint to return the field
-Ticket 1.3: Add field in the Agent edit screen/modal and tie it to the endpint
-Ticket 1.4: Add validation to Custom Agent ID
+
+- Ticket 1.1: Add Custom Agent ID column in database and unique constraint
+- Ticket 1.2: Update Agent PUT/PATCH endpoint to save the field and GET endpoint to return the field
+- Ticket 1.3: Add field in the Agent edit screen/modal and tie it to the endpint
+- Ticket 1.4: Add validation to Custom Agent ID
 
 ### Ticket 2: Add Custom Agent ID in the Report Configuration Page
 
